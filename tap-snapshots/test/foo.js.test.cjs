@@ -365,8 +365,6 @@ j=2
 x.y.z=xyz
 
 [x\\.y\\.z.a\\.b\\.c]
-; nested child without middle parent
-; should create otherwise-empty a.b
 a.b.c=abc
 ; this next one is not a comment!  it's escaped!
 nocomment=this\\; this is not a comment
